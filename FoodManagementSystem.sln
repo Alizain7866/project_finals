@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodManagementSystem", "FoodManagementSystem\FoodManagementSystem.csproj", "{9EA2BFA6-985A-4CA1-B38A-CE9F2BC3A93A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA2BFA6-985A-4CA1-B38A-CE9F2BC3A93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA2BFA6-985A-4CA1-B38A-CE9F2BC3A93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA2BFA6-985A-4CA1-B38A-CE9F2BC3A93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA2BFA6-985A-4CA1-B38A-CE9F2BC3A93A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		SolutionGuid = {6F4EFCC9-8DC7-490F-9A35-9276DC318E9F}
+	EndGlobalSection
+EndGlobal
